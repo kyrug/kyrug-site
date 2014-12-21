@@ -1,7 +1,7 @@
 html{
 	background: #f0e8d4 url(../images/RubyTan_03.png) no-repeat fixed top left;
 	/*font-family: Georgia, "Trebuchet MS", courier, sans-serif;*/
-	font: normal 14px/16px "Myriad Pro","myriad-pro-1","myriad-pro-2", Arial, Helvetica, sans-serif;
+	font: normal 14px/16px "PT Sans", Arial, Helvetica, sans-serif;
 	border-top: 5px solid rgb(209, 25, 25);
 }
 body{
@@ -30,7 +30,7 @@ body{
   font-size: 3em;
   line-height:0.7em;
   color:rgb(209, 25, 25);
-  /* TESTING 
+  /* TESTING
   text-shadow: 0 -1px 0 rgba(0, 0, 0, .8);
   */
 }
